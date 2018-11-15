@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomXRLbl.cs](./CS/CustomReportLabelAndDeisgner/CustomXRLbl.cs) (VB: [CustomXRLblDesigner.vb](./VB/CustomReportLabelAndDeisgner/CustomXRLblDesigner.vb))
+* [CustomXRLblDesigner.cs](./CS/CustomReportLabelAndDeisgner/CustomXRLblDesigner.cs) (VB: [CustomXRLblDesigner.vb](./VB/CustomReportLabelAndDeisgner/CustomXRLblDesigner.vb))
+* **[XRLabelDesignerCustomActionList.cs](./CS/CustomReportLabelAndDeisgner/XRLabelDesignerCustomActionList.cs) (VB: [XRLabelDesignerCustomActionList.vb](./VB/CustomReportLabelAndDeisgner/XRLabelDesignerCustomActionList.vb))**
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
+* [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
+<!-- default file list end -->
 # WinForms End-User Designer - How to customize the Smart Tag menu of a control
 
 
